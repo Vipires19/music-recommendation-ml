@@ -1,0 +1,51 @@
+[
+    { "id": 1, 
+    "name": "Ana Lima", 
+    "age": 25, 
+    "likes": [] },
+
+    { "id": 2,
+     "name": "Bruno Ferreira",
+      "age": 27, 
+      "likes": [] },
+
+    { "id": 3, 
+    "name": "Camila Souza", 
+    "age": 30,
+     "likes": [] },
+
+    { "id": 4,
+     "name": "Diego Almeida",
+      "age": 22,
+       "likes": [] },
+
+    { "id": 5,
+     "name": "Eduarda Nunes", 
+     "age": 28, 
+     "likes": [] },
+
+    { "id": 6, 
+    "name": "Felipe Rocha", 
+    "age": 24, 
+    "likes": [] },
+
+    { "id": 7, 
+    "name": "Gabriela Martins", 
+    "age": 29, 
+    "likes": [] },
+
+    { "id": 8, 
+    "name": "Henrique Costa", 
+    "age": 31, 
+    "likes": [] },
+
+    { "id": 9, 
+    "name": "Isabela Alves", 
+    "age": 26, 
+    "likes": [] },
+    
+    { "id": 10, 
+    "name": "João Pedro", 
+    "age": 23, 
+    "likes": [] }
+  ]

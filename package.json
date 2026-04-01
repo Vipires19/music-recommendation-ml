@@ -1,0 +1,26 @@
+{
+  "name": "music-recommendations-with-ml",
+  "version": "1.0.0",
+  "description": "An music recommendation system with TensorFlow.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "browser-sync start --server --files \"index.html, style.css, data/*.json, src/**/*.js\"",
+    "convert:csv": "node scripts/convert.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "tensorflow",
+    "recommendation",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.14"
+  }
+}
