@@ -136,4 +136,4 @@ Re-run `python scripts/index_chroma.py` afterward so Chroma stays in sync.
 
 ## Author
 
-Your Name
+Vinícius Pires
